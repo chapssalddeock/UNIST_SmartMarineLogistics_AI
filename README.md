@@ -1,4 +1,4 @@
-## 🚢 UNIST_SmartMarineLogistics_AI
+# 🚢 UNIST_SmartMarineLogistics_AI
 
 2022 스마트 해상물류 창업오디션 <br/>
 심화과정 (22/09/19 ~ 22/11/25)
